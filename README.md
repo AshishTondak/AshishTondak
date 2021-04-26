@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @AshishTondak
 - 👀 I’m interested in software engineering
-- 🌱 I’m currently learning coding skills
+- 🌱 I’m currently learning programming languages and databases
 - 💞️ I’m looking to collaborate on 
-- 📫 How to reach me ...
+- 📫 How to reach me : ashish.rajput.11@gmail.com
 
 <!---
 AshishTondak/AshishTondak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
